@@ -1,6 +1,6 @@
 //alert on window load
 $(window).load(function() {
-    alert('window loaded');
+    alert('window loaded 3');
 });
 
 $(window).load(function() {
